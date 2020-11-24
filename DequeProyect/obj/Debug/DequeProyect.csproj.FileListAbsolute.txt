@@ -1,0 +1,7 @@
+C:\Users\IGNITER\source\repos\EstructuraDatos_Programs\DequeProyect\bin\Debug\DequeProyect.exe.config
+C:\Users\IGNITER\source\repos\EstructuraDatos_Programs\DequeProyect\bin\Debug\DequeProyect.exe
+C:\Users\IGNITER\source\repos\EstructuraDatos_Programs\DequeProyect\bin\Debug\DequeProyect.pdb
+C:\Users\IGNITER\source\repos\EstructuraDatos_Programs\DequeProyect\obj\Debug\DequeProyect.csprojAssemblyReference.cache
+C:\Users\IGNITER\source\repos\EstructuraDatos_Programs\DequeProyect\obj\Debug\DequeProyect.csproj.CoreCompileInputs.cache
+C:\Users\IGNITER\source\repos\EstructuraDatos_Programs\DequeProyect\obj\Debug\DequeProyect.exe
+C:\Users\IGNITER\source\repos\EstructuraDatos_Programs\DequeProyect\obj\Debug\DequeProyect.pdb
