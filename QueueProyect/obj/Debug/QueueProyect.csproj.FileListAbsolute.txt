@@ -1,0 +1,14 @@
+C:\Users\IGNITER\source\repos\QueueProyect\bin\Debug\QueueProyect.exe.config
+C:\Users\IGNITER\source\repos\QueueProyect\bin\Debug\QueueProyect.exe
+C:\Users\IGNITER\source\repos\QueueProyect\bin\Debug\QueueProyect.pdb
+C:\Users\IGNITER\source\repos\QueueProyect\obj\Debug\QueueProyect.csprojAssemblyReference.cache
+C:\Users\IGNITER\source\repos\QueueProyect\obj\Debug\QueueProyect.csproj.CoreCompileInputs.cache
+C:\Users\IGNITER\source\repos\QueueProyect\obj\Debug\QueueProyect.exe
+C:\Users\IGNITER\source\repos\QueueProyect\obj\Debug\QueueProyect.pdb
+C:\Users\IGNITER\source\repos\EstructuraDatos_Programs\QueueProyect\bin\Debug\QueueProyect.exe.config
+C:\Users\IGNITER\source\repos\EstructuraDatos_Programs\QueueProyect\bin\Debug\QueueProyect.exe
+C:\Users\IGNITER\source\repos\EstructuraDatos_Programs\QueueProyect\bin\Debug\QueueProyect.pdb
+C:\Users\IGNITER\source\repos\EstructuraDatos_Programs\QueueProyect\obj\Debug\QueueProyect.csprojAssemblyReference.cache
+C:\Users\IGNITER\source\repos\EstructuraDatos_Programs\QueueProyect\obj\Debug\QueueProyect.csproj.CoreCompileInputs.cache
+C:\Users\IGNITER\source\repos\EstructuraDatos_Programs\QueueProyect\obj\Debug\QueueProyect.exe
+C:\Users\IGNITER\source\repos\EstructuraDatos_Programs\QueueProyect\obj\Debug\QueueProyect.pdb
