@@ -1,0 +1,7 @@
+C:\Users\IGNITER\source\repos\EstructuraDatos_Programs\StackProyect\bin\Debug\StackProyect.exe.config
+C:\Users\IGNITER\source\repos\EstructuraDatos_Programs\StackProyect\bin\Debug\StackProyect.exe
+C:\Users\IGNITER\source\repos\EstructuraDatos_Programs\StackProyect\bin\Debug\StackProyect.pdb
+C:\Users\IGNITER\source\repos\EstructuraDatos_Programs\StackProyect\obj\Debug\StackProyect.csprojAssemblyReference.cache
+C:\Users\IGNITER\source\repos\EstructuraDatos_Programs\StackProyect\obj\Debug\StackProyect.csproj.CoreCompileInputs.cache
+C:\Users\IGNITER\source\repos\EstructuraDatos_Programs\StackProyect\obj\Debug\StackProyect.exe
+C:\Users\IGNITER\source\repos\EstructuraDatos_Programs\StackProyect\obj\Debug\StackProyect.pdb
